@@ -1,2 +1,5 @@
-# Simple_Linear_Regression
-This task was a part of Data Science and Business Analytics Internship at The Sparks Foundation
+## **Prediction using Supervised ML**
+### Simple Linear Regression Performed using scikit learn
+#### **Author - Muhammad Bilal**
+#### Task Completed for The Sparks Foundation Internship Program 
+#### Data Science & Business Analytics Task 1
